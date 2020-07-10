@@ -10,7 +10,7 @@ import java.util.List;
 
 public class DepartmentController {
 
-   DepartmentServiceService departmentService;
+   DepartmentService departmentService;
 
 
 
